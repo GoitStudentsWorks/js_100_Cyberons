@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-13/",
+    "build": "vite build --base=/js_100_Cyberons/",
     "preview": "vite preview"
   },
   "devDependencies": {
